@@ -1,0 +1,16 @@
+.pick{
+    font-size:60px;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.submit{
+    text-align: center;
+}
+.result , .reset{
+    text-align: center;
+}
